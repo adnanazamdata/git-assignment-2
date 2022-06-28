@@ -1,0 +1,14 @@
+Ticket ID: FEAPP-420
+Allow customer notification via Whatsaap
+
+What:
+I have implemented a notification system which would notify our customer through both Email and Whatsaap No. when ever we have a product update.
+
+Why:
+There has been multiple requests from our customer to be notified about the product updates.
+
+Note:
+This service would be optional and would only work if specified.
+
+Reviewers: Amit Sinha
+
